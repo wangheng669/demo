@@ -1,12 +1,14 @@
 {
-    "name": "wangheng669/demo",
+    "name": "wangheng/demo",
     "description": "a test project",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "wangheng669",
             "email": "2658803113@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
