@@ -1,0 +1,12 @@
+{
+    "name": "wangheng669/demo",
+    "description": "a test project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "wangheng669",
+            "email": "2658803113@qq.com"
+        }
+    ],
+    "require": {}
+}
