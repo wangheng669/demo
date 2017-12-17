@@ -1,8 +1,6 @@
 {
-    "name": "wangheng/demo",
-    "description": "a test project",
+    "name": "wangheng669/demo",
     "type": "project",
-    "license": "MIT",
     "authors": [
         {
             "name": "wangheng669",
@@ -10,5 +8,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "wangheng669/demo": "dev-master"
+    }
 }
